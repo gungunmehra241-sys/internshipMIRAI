@@ -1,2 +1,2 @@
-# App1-internshipMIRAI-streamlit
-A basic streamlit webpage
+# internship at MIRAI 
+# learning and creating projects
